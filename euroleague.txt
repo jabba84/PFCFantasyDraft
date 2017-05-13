@@ -1,0 +1,64 @@
+Dublin Demons,DUB
+END_PLAYERS
+Glasgow Guardians,GLA
+END_PLAYERS
+London Monarchs,LDN
+END_PLAYERS
+Manchester Nighthawks,MAN
+END_PLAYERS
+Barcelona Dragons,BAR
+END_PLAYERS
+Lisbon Longbows,LIS
+END_PLAYERS
+Madrid Monsters,MAD
+END_PLAYERS
+Paris Storm,PAR
+END_PLAYERS
+Munich Machine,MUN
+END_PLAYERS
+Milan Madness,MIL
+END_PLAYERS
+Rome Rattlers,ROM
+END_PLAYERS
+Zurich Zephyrs,ZUR
+END_PLAYERS
+Amsterdam Admirals,AMS
+END_PLAYERS
+Berlin Bashers,BER
+END_PLAYERS
+Brussels Firebirds,BRU
+END_PLAYERS
+Frankfurt Galaxy,FRK
+END_PLAYERS
+Copenhagen Crunch,COP
+END_PLAYERS
+Helsinki Hellcats,HEL
+END_PLAYERS
+Oslo RoughRiders,OSL
+END_PLAYERS
+Stockholm Spirits,STK
+END_PLAYERS
+Moscow RedStars,MSC
+END_PLAYERS
+StPetersberg Sting,STP
+END_PLAYERS
+Warsaw Wings,WAR
+END_PLAYERS
+Kiev Kombat,KIV
+END_PLAYERS
+Prague Panthers,PRG
+END_PLAYERS
+Bratislava Bobcats,BRT
+END_PLAYERS
+Vienna Venom,VNA
+END_PLAYERS
+Budapest Towers,BUD
+END_PLAYERS
+Athens Olympians,ATH
+END_PLAYERS
+Istanbul Condors,IST
+END_PLAYERS
+Sofia Surge,SOF
+END_PLAYERS
+Cairo Pharoes,CAI
+END_PLAYERS
