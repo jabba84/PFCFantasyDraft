@@ -1,0 +1,92 @@
+World League,,,,,,
+Atlantic,Blue,Red,,,,
+Lakes,Green,Yellow,,,,
+Heartland,Black,White,,,,
+Southeast,Orange,Purple,,,,
+Pacific,Gold,Silver,,,,
+Europe,Teal,Copper,,,,
+TEAM,Atlantic,Blue,Washington DC,DC,84,BLT
+TEAM,Atlantic,Blue,New Jersey,NJ,72,DEL
+TEAM,Atlantic,Blue,New York,NY,90,LI
+TEAM,Atlantic,Blue,Montreal,MTL,75,QBC
+TEAM,Atlantic,Blue,Ottawa,OTA,60,TOR
+TEAM,Atlantic,Blue,New England,NE,51,BOS
+TEAM,Atlantic,Blue,Hardford,HRT,63,PRV
+TEAM,Atlantic,Red,Baltimore,BLT,78,DC
+TEAM,Atlantic,Red,Delaware,DEL,57,NJ
+TEAM,Atlantic,Red,Long Island,LI,54,NY
+TEAM,Atlantic,Red,Quebec,QBC,69,MTL
+TEAM,Atlantic,Red,Toronto,TOR,81,OTA
+TEAM,Atlantic,Red,Boston,BOS,87,NE
+TEAM,Atlantic,Red,Providence,PRV,66,HRT
+TEAM,Lakes,Green,Minnesota,MIN,75,CHI
+TEAM,Lakes,Green,Green Bay,GB,63,MLW
+TEAM,Lakes,Green,Kansas City,KC,72,STL
+TEAM,Lakes,Green,Detroit,DET,84,IND
+TEAM,Lakes,Green,Cincinnatti,CIN,60,CLE
+TEAM,Lakes,Green,Louisville,LOU,51,CLB
+TEAM,Lakes,Green,Pittsburgh,PIT,87,PHL
+TEAM,Lakes,Yellow,Chicago,CHI,90,MIN
+TEAM,Lakes,Yellow,Milwuakee,MLW,54,GB
+TEAM,Lakes,Yellow,St Louis,STL,81,KC
+TEAM,Lakes,Yellow,Indy,IND,69,DET
+TEAM,Lakes,Yellow,Cleveland,CLE,78,CIN
+TEAM,Lakes,Yellow,Columbus,CLB,57,LOU
+TEAM,Lakes,Yellow,Philly,PHL,66,PIT
+TEAM,Heartland,Black,Dallas,DAL,90,OKC
+TEAM,Heartland,Black,San Antonio,SA,69,HOU
+TEAM,Heartland,Black,Omaha,OMA,81,DEN
+TEAM,Heartland,Black,Winnipeg,WPG,78,REG
+TEAM,Heartland,Black,South Dakota,SDK,54,NDK
+TEAM,Heartland,Black,Montana,MNT,57,WYO
+TEAM,Heartland,Black,Cedar Rapids,RAP,66,WIT
+TEAM,Heartland,White,Oklahoma,OKC,75,DAL
+TEAM,Heartland,White,Houston,HOU,87,SA
+TEAM,Heartland,White,Denver,DEN,84,OMA
+TEAM,Heartland,White,Regina,REG,63,WPG
+TEAM,Heartland,White,North Dakota,NDK,60,SDK
+TEAM,Heartland,White,Wyoming,WYO,51,MNT
+TEAM,Heartland,White,Witchita,WIT,72,RAP
+TEAM,Southeast,Orange,Miami,MIA,90,TB
+TEAM,Southeast,Orange,Orlando,ORL,51,JAX
+TEAM,Southeast,Orange,Atlanta,ATL,81,NO
+TEAM,Southeast,Orange,West Virginia,WVA,57,VA
+TEAM,Southeast,Orange,Memphis,MEM,66,NSH
+TEAM,Southeast,Orange,North Carolina,NCR,78,SCR
+TEAM,Southeast,Orange,Monterrey,MTY,69,MEX
+TEAM,Southeast,Purple,Tampa Bay,TB,75,MIA
+TEAM,Southeast,Purple,Jacksonville,JAX,60,ORL
+TEAM,Southeast,Purple,New Orleans,NO,84,ATL
+TEAM,Southeast,Purple,Virginia,VA,63,WVA
+TEAM,Southeast,Purple,Nashville,NSH,72,MEM
+TEAM,Southeast,Purple,South Carolina,SCR,54,NCR
+TEAM,Southeast,Purple,Mexico City,MEX,87,MTY
+TEAM,Pacific,Gold,Los Angeles,LA,90,SD
+TEAM,Pacific,Gold,Sacramento,SAC,57,SF
+TEAM,Pacific,Gold,Seattle,SEA,81,PRT
+TEAM,Pacific,Gold,Alaska,AKA,66,VAN
+TEAM,Pacific,Gold,Calgary,CGY,78,EDM
+TEAM,Pacific,Gold,Boise,BOI,51,LV
+TEAM,Pacific,Gold,Phoenix,PHX,69,SFE
+TEAM,Pacific,Silver,San Diego,SD,75,LA
+TEAM,Pacific,Silver,San Francisco,SF,87,SAC
+TEAM,Pacific,Silver,Portland,PRT,72,SEA
+TEAM,Pacific,Silver,Vancouver,VAN,84,AKA
+TEAM,Pacific,Silver,Edmonton,EDM,60,CGY
+TEAM,Pacific,Silver,Las Vegas,LV,63,BOI
+TEAM,Pacific,Silver,Santa Fe,SFE,54,PHX
+TEAM,Europe,Teal,London,LDN,87,MAN
+TEAM,Europe,Teal,Milan,MIL,63,ROM
+TEAM,Europe,Teal,Berlin,BER,60,FRK
+TEAM,Europe,Teal,Barcelona,BAR,84,MAD
+TEAM,Europe,Teal,Amsterdam,AMS,75,PAR
+TEAM,Europe,Teal,Dublin,DUB,72,GLA
+TEAM,Europe,Teal,Helsinki,HEL,54,STK
+TEAM,Europe,Copper,Manchester,MAN,78,LDN
+TEAM,Europe,Copper,Rome,ROM,81,MIL
+TEAM,Europe,Copper,Frankfurt,FRK,90,BER
+TEAM,Europe,Copper,Madrid,MAD,69,BAR
+TEAM,Europe,Copper,Paris,PAR,57,AMS
+TEAM,Europe,Copper,Glasgow,GLA,51,DUB
+TEAM,Europe,Copper,Stockholm,STK,66,HEL
+END_FILE,,,,,,
