@@ -1,10 +1,10 @@
 World League
-Atlantic,Blue,Red,,,,
-Lakes,Green,Yellow,,,,
-Heartland,Black,White,,,,
-Southeast,Orange,Purple,,,,
-Pacific,Gold,Silver,,,,
-Europe,Teal,Copper,,,,
+Atlantic,Blue,Red
+Lakes,Green,Yellow
+Heartland,Black,White
+Southeast,Orange,Purple
+Pacific,Gold,Silver
+Europe,Teal,Copper
 TEAM,Atlantic,Blue,Washington DC,DC,84,BLT
 TEAM,Atlantic,Blue,New Jersey,NJ,72,DEL
 TEAM,Atlantic,Blue,New York,NY,90,LI
@@ -89,4 +89,4 @@ TEAM,Europe,Copper,Madrid,MAD,69,BAR
 TEAM,Europe,Copper,Paris,PAR,57,AMS
 TEAM,Europe,Copper,Glasgow,GLA,51,DUB
 TEAM,Europe,Copper,Stockholm,STK,66,HEL
-END_FILE,,,,,,
+END_FILE
